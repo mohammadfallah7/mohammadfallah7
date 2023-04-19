@@ -6,7 +6,7 @@ Flutter and Django Intern
 
 coming soon ... 💣
 
-### <p align="center">Skills</p>
+### <p align="left">Skills</p>
 
 <p align="center">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
@@ -17,6 +17,6 @@ coming soon ... 💣
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-### Socials
+### <p align="left">Socials</p>
 
 <p align="center"> <a href="https://www.stackoverflow.com/users/21640492/mohammad-fallah?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
