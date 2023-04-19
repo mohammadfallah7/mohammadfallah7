@@ -1,7 +1,7 @@
-Hi 👋 My name is Mohammad Fallah
+<p style="text-align: center;">Hi 👋 My name is Mohammad Fallah</p>
 ================================
 
-Flutter and Django Intern
+<p style="text-align: center;">Flutter and Django Intern</p>
 -------------------------
 
 coming soon ... 💣
