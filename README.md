@@ -1,16 +1,18 @@
-<p style="text-align: center;">Hi 👋 My name is Mohammad Fallah</p>
+Hi 👋 My name is Mohammad Fallah
 ================================
 
-<p style="text-align: center;">Flutter and Django Intern</p>
+Flutter and Django Intern
 -------------------------
 
 coming soon ... 💣
 
-* 🧠  I'm learning Flutter and Django
+* 🧠  I'm learning Flutter and Django
 
 <a href="https://www.github.com/mohammadfallah7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mohammadfallah7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
+
 
 <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
@@ -22,10 +24,10 @@ src="https://img.shields.io/github/followers/mohammadfallah7?logo=github&style=f
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/mohammadfallah7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21640492/mohammad-fallah?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
