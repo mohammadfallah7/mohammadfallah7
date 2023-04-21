@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fallah</h1>
 <h3 align="center">Application Developer (Flutter)</h3>
 
-* 🌍  I'm based in Iran
-* ✉️  You can contact me at [mohammadfallah.w@gmail.com](mailto:mohammadfallah.w@gmail.com)
-* 🧠  I'm learning Flutter
+Hey there! I'm Mohammad, a junior flutter developer. I'm excited to join the Github community and share my experience as I learn and grow in these technologies.
+
+* You can contact me at [mohammadfallah.w@gmail.com](mailto:mohammadfallah.w@gmail.com)
 
 <a href="https://www.github.com/mohammadfallah7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mohammadfallah7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
