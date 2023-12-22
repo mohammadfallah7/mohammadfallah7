@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fallah</h1>
 <h3 align="center">Application Developer (Flutter)</h3>
 
-Hey there! I'm Mohammad, a flutter developer. I'm excited to join the Github community and share my experience as I learn and grow in these technologies.
+Hey there! I'm Mohammad. I'm excited to join the Github community and share my experience as I learn and grow in programming.
 
 * You can contact me at [mohammadfallah.w@gmail.com](mailto:mohammadfallah.w@gmail.com)
 
