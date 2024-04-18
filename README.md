@@ -45,9 +45,3 @@ Hey there! I'm Mohammad. I'm excited to join the GitHub community and share my e
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/mohammadfallah7/mohammadfallah7/output/snake.svg" alt="Snake animation" />
-
-###
