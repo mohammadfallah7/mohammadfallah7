@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Front-End Developer</h4>
+<h3 align="center">Front-End Developer</h3>
 
 ###
 
