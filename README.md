@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fallah</h1>
 
 ###
-Passionate Front-End Developer with over 2 years of experience specializing in JavaScript, React.js, and modern front-end technologies.
+Passionate Front-End Developer with over 3+ years of experience specializing in JavaScript, React.js, Next.js, and modern front-end technologies.
 
 
 ## 🌐 Socials:
